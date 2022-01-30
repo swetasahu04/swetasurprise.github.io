@@ -1,0 +1,25 @@
+h1{
+    font-variant: small-caps;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: 50px;
+    color: #CD5C5C;
+}
+h2{
+    font-size: 35px;
+    font-style: normal;
+    text-align: center;
+    color:#2F4F4F;
+    font-family: serif;
+    font-variant: inherit;
+}
+body{
+    background-color: #F5F5F5;
+
+}
+p{
+    font-size: 25px;
+    color: #8B4513
+    ;
+    font-family: fantasy;
+}
